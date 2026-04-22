@@ -1,5 +1,6 @@
 ---
-title: position-anchor
+title: "`position-anchor` CSS property"
+short-title: position-anchor
 slug: Web/CSS/Reference/Properties/position-anchor
 page-type: css-property
 browser-compat: css.properties.position-anchor
@@ -298,7 +299,7 @@ The output is anchored to the thumb. Change the value and the output will remain
 {{ EmbedLiveSample("A range thumb as anchor", "100%", "225") }}
 
 > [!NOTE]
-> The anchor positioning CSS for this demo currently doesn't work in Firefox. The slider's thumb can be targeted via the {{cssxref("::-moz-range-thumb")}} pseudo-element in Firefox, but it is currently not anchorable (see [Firefox bug 1993699](https://bugzil.la/1993699)).
+> The anchor positioning CSS for this demo currently doesn't work in Firefox. The slider's thumb can be targeted via the {{cssxref("::-moz-range-thumb")}} pseudo-element in Firefox, but it is currently not available as an anchor (see [Firefox bug 1993699](https://bugzil.la/1993699)).
 
 ## Specifications
 

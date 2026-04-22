@@ -1,5 +1,6 @@
 ---
-title: ::search-text
+title: "`::search-text` CSS pseudo-element"
+short-title: ::search-text
 slug: Web/CSS/Reference/Selectors/::search-text
 page-type: css-pseudo-element
 status:
@@ -117,7 +118,7 @@ In our CSS, we start by styling the `::search-text` pseudo-element. We give it c
 
 ```css hidden live-sample___custom-search-results
 html {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Helvetica", "Arial";
 }
 
 p {
